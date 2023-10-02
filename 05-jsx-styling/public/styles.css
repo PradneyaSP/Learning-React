@@ -1,0 +1,12 @@
+.heading {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.food-item {
+  height: 200px;
+  width: 200px;
+}
+
+.container {
+  text-align: center;
+}
